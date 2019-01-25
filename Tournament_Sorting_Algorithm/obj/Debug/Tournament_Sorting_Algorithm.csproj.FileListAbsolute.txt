@@ -1,0 +1,6 @@
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\bin\Debug\Tournament_Sorting_Algorithm.exe.config
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\bin\Debug\Tournament_Sorting_Algorithm.exe
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\bin\Debug\Tournament_Sorting_Algorithm.pdb
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\obj\Debug\Tournament_Sorting_Algorithm.csprojResolveAssemblyReference.cache
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\obj\Debug\Tournament_Sorting_Algorithm.exe
+c:\users\umair\documents\visual studio 2013\Projects\Tournament_Sorting_Algorithm\Tournament_Sorting_Algorithm\obj\Debug\Tournament_Sorting_Algorithm.pdb
